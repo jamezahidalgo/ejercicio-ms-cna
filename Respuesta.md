@@ -5,7 +5,7 @@ Listado de servicios
 
 \begin{itemize}
 \item Uno
-\enditemize}
+\end{itemize}
 
 Pagos: plataforma externa destinada a los pagos
 +Compras: realiza las compras de los clientes
